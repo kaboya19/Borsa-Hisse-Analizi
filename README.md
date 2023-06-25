@@ -1,4 +1,4 @@
-# Borsa-Hisse-Analizi
+# Stock Price Analysis
 
-Bu projede,borsada hisselerin zaman serisi analizini yaparak al ve sat tavsiyeleri oluşturuyoruz.
-Projenin sonunda al ve sat tavsiyelerine uyarak toplamda ne kadar kar elde ettiğimize bakıyoruz ve modelin karlılık oranını çıkarıyoruz.
+In this project, we create buy and sell recommendations by making time series analysis of stocks in the stock market.
+At the end of the project, we look at how much profit we have made in total by following the buy and sell recommendations and we calculate the profitability ratio of the model.
